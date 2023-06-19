@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'flask-ai-demo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_001E2D3CD465462B91A71A77DAACA179 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CE36D25EC84A4CD1B73C7A1207DAE5E8 }}
